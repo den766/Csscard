@@ -10,7 +10,7 @@ A simple card hover animation using pure HTML and CSS. When users hover over the
 
 ## 🚀 Live Demo
 
-[Add link here if hosted]
+[(https://den766.github.io/Csscard/)]
 
 ## 📁 Project Structure
 
@@ -39,9 +39,6 @@ A simple card hover animation using pure HTML and CSS. When users hover over the
    ```
 3. Open `index.html` in your browser.
 
-## 📸 Preview
-
-(Add a screenshot/gif of your animation here)
 
 ## 📜 License
 
